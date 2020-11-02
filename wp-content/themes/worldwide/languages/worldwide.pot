@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Worldwide\n"
+"POT-Creation-Date: 2016-10-05 23:49+0530\n"
+"PO-Revision-Date: 2016-10-05 23:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: ClassicTemplate <support@classictemplate.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_html;esc_html__;"
+"esc_html_e;esc_attr;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....Don't worry... it happens to the "
+"best of us."
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:18 image.php:54
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23 content-single.php:15 image.php:30 image.php:60
+#: inc/template-tags.php:23 inc/template-tags.php:42
+msgid "Edit"
+msgstr ""
+
+#: content.php:24
+msgid "Read More"
+msgstr ""
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:28
+msgid "&copy; 2016"
+msgstr ""
+
+#: footer.php:28
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:31
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:46
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:47
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:55
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:56 functions.php:66 functions.php:76
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:65
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:75
+msgid "Footer Widget 3"
+msgstr ""
+
+#: header.php:32
+msgid "Menu"
+msgstr ""
+
+#: image.php:20
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Color Management"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "More color options in pro version"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:36
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> on"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:137
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""

@@ -1,0 +1,208 @@
+/*
+Theme Name: Worldwide Child
+Template: worldwide
+Author: Classic Template
+Author URI: https://www.classictemplate.com/
+Description: Worldwide is a simple business WordPress theme. it is a user-friendly theme. It is easily customizable. It is Compatible with WordPress latest version also Compatible with WooCommerce, Contact form 7 Several WordPress plugins.
+Tags: blog,two-columns,custom-colors,right-sidebar,custom-logo,footer-widgets,custom-header,featured-images,editor-style,custom-background,custom-menu,threaded-comments,theme-options,translation-ready
+Version: 1.7.1.1603738694
+Updated: 2020-10-26 18:58:14
+
+*/
+
+.site-main{
+	width:100% !important;
+}
+
+.header{
+	background-color:#fff;
+}
+
+.headernav ul li a{
+	color:black;
+	padding:0.3rem;
+}
+.current_page_item a{
+	background-color:black;
+	color:white;
+	border-radius:5px;
+}
+
+.headernav ul {
+	padding-top:2rem;
+	font-size:1.2rem;
+}
+
+
+.header2{
+	display:flex;
+	justify-content:space-around;
+	padding:1rem;
+}
+
+.header2-menu-item h3{
+	margin-bottom:1px;
+	padding-top:0.4rem;
+	color:red;
+	font-weight:bold;
+	
+}
+
+.header2-menu-item {
+	width:auto;
+	clear:both;
+	width:18rem;
+}
+
+
+
+.header2-menu-item img{
+	float:left;
+	margin-right:1rem;
+}
+
+
+.header-banner{
+	display:none;
+}
+
+.articlelists article post-thumb{
+	float:left;
+}
+
+.homeblogpost .articlelists .post-thumb{
+	float:left;
+	width:12rem;
+	height:10rem;
+	border-radius:10px;
+}
+
+.articleHead header{
+	display:flex;
+	background-color:#000;
+	color:#fff;
+	border-radius:3px;
+	margin-bottom:1rem;
+}
+.articleHead header h4,.articleHead header h4 a{
+	color:#fff;
+	padding:10px;
+	text-decoration:none;
+	border-bottom:none;
+}
+.homeblogpost .articlelists h4{
+    border-bottom:none;	
+	margin:0 0 0 0;
+}
+
+.dt{
+	border-right:1px solid #fff;
+}
+
+
+
+
+.homeblogpost .articlelists {
+	width:60%;
+}
+
+.author{
+	color:#FF5733;
+	font-weight:bold;
+}
+
+.comm{
+	float:right;
+	font-weight:bold;
+}
+
+.entry-summary{margin-left:13rem;}
+
+.homeblogpost .articlelists .post-thumb img{ width:100%; height:100%;}
+
+.homeblogpost .articlelists .ReadMore{ background-color:#fff !important;color:#FF5733;font-size:1.2rem;padding:0;}
+.homeblogpost .articlelists .ReadMore:hover{background-color:#fff !important;color:#FE3636;}
+
+#sidebar ul li{
+	list-style-type:none;
+}
+
+#sidebar ul li a img{
+	float:left;
+}
+#sidebar ul li span{
+}
+.home-banner{
+width:100%;
+height:23rem;
+background-color:#FF3E00;
+background-size:contain;
+background-repeat:no-repeat;
+background-position:center;
+color:#fff;
+display:block;
+text-align:center;
+}
+
+
+.home-banner h1{
+	
+	padding-top:12rem;
+	text-align:center;
+	color:#fff;
+	font-size:3.5rem;
+	font-weight:bold;
+}
+
+.home-banner p{
+	width:40%;
+	text-align:center;
+	margin:0 auto;
+}
+.class-toggle{display:none;}
+.home-port{
+	display:flex;
+	flex-wrap:wrap;
+	width:70%;
+	overflow:hidden;
+	justify-content:space-evenly;
+	margin:0 auto;
+	align-content:space-between;
+}
+
+.home-port img{
+	padding:1rem;
+	width:14rem;
+	height:11rem;
+}
+
+.port-head1{
+	width:60%;
+	display:block;
+}
+
+.enl-img{
+		width:40%;
+		height:25rem;
+		background-color: #fff;
+		position:fixed;
+		top:25%;
+		left:30%;
+		z-index:1;
+		text-align: center;
+		padding:1rem;
+	}
+
+	.enl-img img{
+		width:100%;
+		height:100%;
+	}
+
+	.enl-100{
+		width:100%;
+		height:100%;
+		background: rgba(0,0,0,0.5);
+		position:fixed;
+		visibility: hidden;
+		z-index:1;
+	}
